@@ -1,6 +1,6 @@
 maximilian kallina · vienna
 
-ios, web, sidequests. cs @ tu wien
+ios, web, sidequests · cs @ tu wien
 
 [kodaremote.app](https://kodaremote.app)<br>
 [forstrechner.maximilian.sh](https://forstrechner.maximilian.sh)<br>
