@@ -9,4 +9,4 @@ ios, web, sidequests · cs @ tu wien
 
 soon: [lockin.maximilian.sh](https://lockin.maximilian.sh)
 
-[maximilian.sh](https://maximilian.sh) · [linkedin](https://www.linkedin.com/in/maximilian-sh/) · [discord](https://discord.maximilian.sh)
+[maximilian.sh](https://maximilian.sh) · [discord](https://discord.maximilian.sh)
